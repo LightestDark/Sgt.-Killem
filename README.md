@@ -6,3 +6,5 @@ A short arena game where you survive shooting angry goblins!
 
 
 Started on UI, coding etc
+
+V1.1 - Added 8 directional movement, and models for the characters,bullets and a start at the code!
