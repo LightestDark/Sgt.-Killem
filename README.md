@@ -8,3 +8,8 @@ A short arena game where you survive shooting angry goblins!
 Started on UI, coding etc
 
 V1.1 - Added 8 directional movement, and models for the characters,bullets and a start at the code!
+
+V1.2 - Added the UI that shows you how many mobs there are and the amount of lives you have left!
+
+V1.3 - Reduced the number of mobs and made 8 sprites for 8 axis movement in 2D
+
