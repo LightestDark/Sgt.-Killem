@@ -13,3 +13,5 @@ V1.2 - Added the UI that shows you how many mobs there are and the amount of liv
 
 V1.3 - Reduced the number of mobs and made 8 sprites for 8 axis movement in 2D
 
+
+V1.4 -   Remodulated all the sprites, added a bullet mechanic and the mob killing animation!
