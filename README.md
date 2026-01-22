@@ -17,3 +17,5 @@ V1.3 - Reduced the number of mobs and made 8 sprites for 8 axis movement in 2D
 V1.4 -   Remodulated all the sprites, added a bullet mechanic and the mob killing animation!
 
 V1.5 - cChanged the enemy sprites, bullet sprite to a new asset pack, made the tilemap and debugged A LOT!
+
+V1.6 - Almost done, added a wave mechanic where the mobs ramp up as time passes and if even one touches you then you lose! Added a mob death animation!
