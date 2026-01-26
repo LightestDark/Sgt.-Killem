@@ -19,3 +19,5 @@ V1.4 -   Remodulated all the sprites, added a bullet mechanic and the mob killin
 V1.5 - cChanged the enemy sprites, bullet sprite to a new asset pack, made the tilemap and debugged A LOT!
 
 V1.6 - Almost done, added a wave mechanic where the mobs ramp up as time passes and if even one touches you then you lose! Added a mob death animation!
+
+V1.7 - Added a powerup mechanic, dead mobs drop a increased gun rate and extra health, now the map is endless so its a matter of how long you can survive!!
