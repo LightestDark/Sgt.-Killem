@@ -1,6 +1,9 @@
 # Sgt.-Killem
 
 A short arena game where you survive shooting angry goblins!
+I used many yt tutorials to learn about hoe to make mob mechanics, collisions in game and used publiv top down shooter assets for the images!
+
+WASD to move and use the cursor LMB to shoot! Its an endless wave game so see how long you survive
 
 <img width="353" height="370" alt="image" src="https://github.com/user-attachments/assets/1beea7cd-e568-42e6-85c6-5e2c6f6ffce7" />
 
