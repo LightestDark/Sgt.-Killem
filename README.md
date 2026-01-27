@@ -2,7 +2,7 @@
 
 A short arena game where you survive shooting angry goblins!
 
-<img width="1191" height="328" alt="image" src="https://github.com/user-attachments/assets/2578892e-a893-4370-84bc-bd38990c63ad" />
+<img width="353" height="370" alt="image" src="https://github.com/user-attachments/assets/1beea7cd-e568-42e6-85c6-5e2c6f6ffce7" />
 
 
 Started on UI, coding etc
